@@ -31,5 +31,6 @@
         "intent": "compare_competitors",
         "audience": "investor"
     },
+    "aivo:cohortId": "signoff-ac18ce2c134e",
     "schemaVersion": "aivo-mas-2.0"
 }
